@@ -38,7 +38,7 @@ const WantedProfille = () => {
                 <p>Seguidores: {wanted.followers}</p>
                 <p>seguindo: {wanted.following}</p>
                 <p>{wanted.bio}</p>
-                <button onClick={() => { toGoRepo(wanted.login) }}>Repositótios Publicos</button>
+                <button onClick={() => { toGoRepo(wanted.login) }}>Repositótios Públicos</button>
                 <button onClick={() => { toGoStarred(wanted.login) }}>Starred </button>
               </div>  : <h1>Sem Pesquisas recentes</h1>
             }

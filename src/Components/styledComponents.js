@@ -2,13 +2,15 @@ import styled from 'styled-components'
 
 export const Head = styled.div`
 display:flex;
-background-color: ill-informed-hand.surge.sh
-;
+background-color:#58A6E1;
 height:20vh;
 justify-content:space-around;
 align-items:center;
 img{
     height:5vh;
+    &:hover{
+transform: scale(1.1);
+    }
 }`
 
 export const FormResearch = styled.div`
@@ -19,6 +21,7 @@ justify-content:space-around;
 align-items:center;
 
 input{
+   border:1px solid #58A6E1;
     height:5vh;
     width: 80vw;
 }
@@ -42,6 +45,7 @@ width:100vh;
 
 export const CardProfile = styled.div`
 display: grid;
+justify-content:center;
 box-shadow: 5px 2px 5px;
 padding:2%;
 margin:auto;
@@ -62,9 +66,14 @@ p{
     padding:2%;
 }
 button{
-    background-color:#BD7A4B;
-    border-radius: 20px;
-    margin:2%;
+    width:100%;
+    border-radius: 10px;
+    justify-content:center;
+    background-color:#2EA043;
+    color:#FAFAFA;
+    border:none;
+    margin: 2%;
+    font-size:1.5em;
     &:hover{
         transform:scale(1.2);
         background-color:black;
