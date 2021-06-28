@@ -1,7 +1,6 @@
 
 ![Logo_CompassoUOL_Positivo](https://user-images.githubusercontent.com/81257067/123703741-2f1c8380-d83b-11eb-967b-160af599cabf.png)
 
-Surge: gruesome-slip.surge.sh
 
 # desafio
 Este repositório foi especialmente criado para a realização do desafio da Compasso Uol
