@@ -37,8 +37,9 @@ transform: scale(1.1);
 }`
 
 export const Container = styled.div`
-display:grid;
-grid-template-columns:1fr 1fr;
+display:flex;
+flex-direction: column;
+flex-wrap:wrap;
 justify-content:center;
 width:100vh;
 `

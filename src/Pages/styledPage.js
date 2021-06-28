@@ -1,7 +1,8 @@
 import styled from 'styled-components'
 
 export const Main  = styled.main`
-display:grid;
+display:flex;
+flex-wrap: wrap;
 justify-items: center;
 justify-content:center;
 margin:auto;
