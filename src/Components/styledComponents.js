@@ -37,8 +37,9 @@ transform: scale(1.1);
 }`
 
 export const Container = styled.div`
-display:grid;
-grid-template-columns:1fr 1fr;
+display:flex;
+flex-direction: column;
+flex-wrap:wrap;
 justify-content:center;
 width:100vh;
 `
@@ -69,7 +70,7 @@ button{
     width:100%;
     border-radius: 10px;
     justify-content:center;
-    background-color:#2EA043;
+    background-color:#58A6E1;
     color:#FAFAFA;
     border:none;
     margin: 2%;
