@@ -13,7 +13,7 @@ A aplicação é composta por três componentes principais:
 
 O campo de busca.
 Visualização de resultados.
-Dois botões para detales:
+Dois botões para detalhes:
 O primeiro mostra quantos repositórios públicos um determinado usuário tem, e quando clicado,  lista os nomes e a quantidade de forks, 
 o segundo mostra os Starreds.
 
