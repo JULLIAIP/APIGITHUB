@@ -3,7 +3,8 @@
 
 
 Aplicação utilizando a API GIT HUB
-Surge: entertaining-arm.surge.sh
+
+#Surge: entertaining-arm.surge.sh
 
 # O que foi utilizado?
 API GITHUB
