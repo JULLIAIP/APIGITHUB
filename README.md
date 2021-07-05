@@ -1,9 +1,7 @@
 
-![Logo_CompassoUOL_Positivo](https://user-images.githubusercontent.com/81257067/123703741-2f1c8380-d83b-11eb-967b-160af599cabf.png)
+![image](https://user-images.githubusercontent.com/81257067/124479671-e2760280-dd7c-11eb-8822-fa1236227320.png)
 
-
-# desafio
-Este repositório foi especialmente criado para a realização do desafio da Compasso Uol
+Aplicação utilizando a API GIT HUB
 
 # O que foi utilizado?
 API GITHUB
