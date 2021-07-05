@@ -1,6 +1,6 @@
 
 import { ContextWanted } from "../Globais/GlobalContext";
-import { useContext, useEffect, useState } from "react";
+import { useContext,  useState } from "react";
 import { CardProfile, CardRepo, Container } from "./styledComponents";
 import { getRepo } from "../Services/getRepo";
 import { getStarred } from "../Services/getStarred";

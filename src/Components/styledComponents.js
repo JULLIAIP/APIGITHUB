@@ -70,7 +70,7 @@ button{
     width:100%;
     border-radius: 10px;
     justify-content:center;
-    background-color:#2EA043;
+    background-color:#58A6E1;
     color:#FAFAFA;
     border:none;
     margin: 2%;
