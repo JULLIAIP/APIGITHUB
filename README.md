@@ -2,9 +2,7 @@
 ![image](https://user-images.githubusercontent.com/81257067/124479671-e2760280-dd7c-11eb-8822-fa1236227320.png)
 
 
-Aplicação utilizando a API GIT HUB
-
-#Surge: <a href='https://entertaining-arm.surge.sh/'>entertaining-arm.surge.sh<a>
+Aplicação utilizando a API GIT HUB <a href='https://entertaining-arm.surge.sh/'>Aqui<a>
 
 # O que foi utilizado?
 API GITHUB
