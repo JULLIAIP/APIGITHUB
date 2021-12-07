@@ -9,13 +9,13 @@ API GITHUB
 AXIOS
 STYLED-COMPONENT
 
-#Funcionalidades
+# Funcionalidades
 A aplicação é composta por três componentes principais:
 
-O campo de busca.
-Visualização de resultados.
-Dois botões para detalhes:
-O primeiro mostra quantos repositórios públicos um determinado usuário tem, e quando clicado,  lista os nomes e a quantidade de forks, 
+  <li>O campo de busca.</li>
+ <li>Visualização de resultados.</li>
+ <li>Dois botões para detalhes:</li>
+ O primeiro mostra quantos repositórios públicos um determinado usuário tem, e quando clicado,  lista os nomes e a quantidade de forks, 
 o segundo mostra os Starreds.
 ![image](https://user-images.githubusercontent.com/81257067/126779435-87ffad61-f647-47ac-b302-c716bcb82c7c.png)
 ![image](https://user-images.githubusercontent.com/81257067/126779499-2c802227-bb8e-4680-b1ad-0e67ecde556e.png)
