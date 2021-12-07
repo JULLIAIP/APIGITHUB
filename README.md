@@ -4,7 +4,7 @@
 
 Aplicação utilizando a API GIT HUB <a href='https://entertaining-arm.surge.sh/'>Aqui<a>
 
-# O que foi utilizado?
+# Bibliotecas
 API GITHUB
 AXIOS
 STYLED-COMPONENT
