@@ -57,7 +57,6 @@ export const FormResearch = styled.div`
 
 export const Container = styled.div`
   display: flex;
-  flex-wrap: wrap;
   justify-content: space-between;
   padding: 2% 5%;
   width: 100%;
@@ -68,7 +67,7 @@ export const Container = styled.div`
 export const InfoContain = styled.div`
   display: flex;
   flex-direction: column;
-  width: 30%;
+  width: 25%;
   line-height: 30px;
   .top {
     display: flex;
@@ -97,13 +96,12 @@ export const InfoContain = styled.div`
       }
     }
   }
-  
 `;
 export const MainContain = styled.div`
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  width: 100%;
+  width: 70%;
   padding-top: 5%;
   line-height: 30px;
   gap: 20px;
@@ -116,7 +114,7 @@ export const CardRepo = styled.div`
   height: auto;
   min-height: 150px;
   justify-content: space-between;
-  padding: 2%; 
+  padding: 2%;
   border: 1px solid rgba(146, 133, 133, 0.5);
   border-radius: 5px;
   box-shadow: 5px 4px 4px rgba(146, 133, 133, 0.25);
