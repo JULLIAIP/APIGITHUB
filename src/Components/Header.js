@@ -1,12 +1,13 @@
-import { Head } from "../Components/styledComponents"
+import { Head } from "./styled";
 
-
-const Header = () => {
-    return (
-        <Head>
-            <h1>GitHub</h1>
-            <a href="https://github.com/JULLIAIP/desafio/compare/1.?expand=1"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="logo-git-hub" /></a>
-        </Head>
-    )
-}
-export default Header
+const Header = ({ name, logo, link }) => {
+  return (
+    <Head>
+      <h1>{name}</h1>
+      <a href={link}>
+        <img src={logo} alt="logo" />
+      </a>
+    </Head>
+  );
+};
+export default Header;
